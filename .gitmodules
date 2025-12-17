@@ -1,3 +1,6 @@
 [submodule "authKriliya"]
 	path = authKriliya
 	url = https://github.com/Bilalik369/kriLiya_mecro_auth.git
+[submodule "itemKriliya"]
+	path = itemKriliya
+	url = https://github.com/Bilalik369/kriliya-item-micro.git
