@@ -4,3 +4,6 @@
 [submodule "itemKriliya"]
 	path = itemKriliya
 	url = https://github.com/Bilalik369/kriliya-item-micro.git
+[submodule "bookingKriliya"]
+	path = bookingKriliya
+	url = https://github.com/Bilalik369/kriliya-booking-micro.git
