@@ -7,3 +7,6 @@
 [submodule "bookingKriliya"]
 	path = bookingKriliya
 	url = https://github.com/Bilalik369/kriliya-booking-micro.git
+[submodule "notificationKriliya"]
+	path = notificationKriliya
+	url = https://github.com/Bilalik369/kriliya-notifi-micro.git
