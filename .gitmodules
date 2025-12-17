@@ -13,3 +13,6 @@
 [submodule "reviewKriliya"]
 	path = reviewKriliya
 	url = https://github.com/Bilalik369/kriliya-review-micro.git
+[submodule "gatewayKriliya"]
+	path = gatewayKriliya
+	url = https://github.com/Bilalik369/kriliya-gateway-micro.git
