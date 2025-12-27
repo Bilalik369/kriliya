@@ -17,3 +17,6 @@
 	path = gatewayKriliya
 	url = https://github.com/Bilalik369/kriliya-gateway-micro.git
 	
+[submodule "frontend-kriliya"]
+	path = frontend-kriliya
+	url = https://github.com/Bilalik369/kriliya-frontend.git
